@@ -1,0 +1,90 @@
+
+# Manual de operatividad de SINCO SGD
+
+SINCO SGD facilita la administración de correspondencia entrante, interna, saliente y comunicado interno, definiendo los diferentes tipos de correspondencia. Para iniciar la radicación, es necesario configurar la correspondencia que se radicará y definir el flujo documental que se llevará a cabo, junto a sus respectivas opciones. 
+
+La información contenida en este documento es confidencial y propiedad de SINCOSOFT S.A.S.
+
+SINCOSOFT S.A.S. entrega este manual bajo el entendimiento de que será manejado en forma estrictamente confidencial y no será divulgado, duplicado o usado, completa o parcialmente, con ningún otro propósito diferente al de dar a conocer el manejo correcto y óptimo de las herramientas que están integradas en el software SINCO ERP del módulo SINCO SGD,sin el previo consentimiento escrito por parte de SINCOSOFT S.A.S. 
+
+---
+### CORRESPONDENCIA
+
+[CORRESPONDENCIA ENTRANTE](1. Correspondencia Entrante.md)
+
+* ##### CONFIGURACIONES PREVIAS	
+* ##### RADICACIÓN DE CORRESPONDENCIA ENTRANTE GENERAL	
+* ##### RADICACIÓN DE CORRESPONDENCIA ENTRANTE CON FLUJO PROGRAMADO	
+* ##### ACTIVIDADES PENDIENTES DE CORRESPONDENCIA	
+* ##### VISUALIZACIÓN DE FACTURAS EN SINCO A&F	
+* ##### VISUALIZACIÓN DE FACTURAS EN SINCO ADPRO
+* ##### INFORME DE CORRESPONDENCIA ENTRANTE
+
+[COMUNICADOS INTERNOS](2. Comunicados Internos.md)
+
+* ##### CONFIGURACIONES PREVIAS
+* ##### RADICACIÓN DE CORRESPONDENCIA – COMUNICADOS INTERNOS
+* ##### ACTIVIDADES PENDIENTES DE CORRESPONDENCIA
+* ##### INFORME DE COMUNICADOS INTERNOS
+
+[CORRESPONDENCIA INTERNA](3. Correspondencia Interna.md)
+
+* ##### CONFIGURACIONES PREVIAS
+* ##### RADICACIÓN DE CORRESPONDENCIA INTERNA
+* ##### RADICACIÓN DE CORRESPONDENCIA INTERNA A TRAVÉS DEL COMPLEMENTO EXCEL
+* ##### ACTIVIDADES PENDIENTES DE CORRESPONDENCIA
+* ##### INFORME DE CORRESPONDENCIA INTERNA
+
+[CORRESPONDENCIA SALIENTE](4. Correspondencia Saliente.md)
+
+* ##### CONFIGURACIONES PREVIAS
+* ##### RADICACIÓN DE CORRESPONDENCIA SALIENTE
+* ##### RADICACIÓN DE CORRESPONDENCIA SALIENTE A TRAVÉS DEL 
+* ##### COMPLEMENTO WORD
+* ##### PLANILLAS
+* ##### CONFIRMACION DE CORRESPONDENCIA SALIENTE
+* ##### INFORME DE CORRESPONDENCIA SALIENTE
+
+---
+
+### ARCHIVO
+
+[ARCHIVO](5. Archivo.md)
+
+* ##### CONFIGURACIONES PREVIAS
+* ##### POLÍTICA DE RETENCIÓN DOCUMENTAL
+* ##### PERMISOS DE CONSULTA SOBRE LAS TABLAS DE RETENCIÓN
+* ##### TRANSACCIONES
+* ##### REGISTRO DE EXPEDIENTES
+* ##### TRANSACCIONES DE PRÉSTAMOS
+* ##### TRASLADOS
+* ##### BAJA DE ARCHIVOS
+* ##### REGISTRO PASO HISTÓRICO
+* ##### CONSULTA DE ARCHIVOS EN SINCO SGD
+* ##### INFORMES DE TRANSACCIONES DE ARCHIVO
+* ##### MOVIMIENTOS POR ARCHIVO
+* ##### VENCIMIENTO DE PRÉSTAMOS
+* ##### VENCIMIENTO DE PRÉSTAMOS PROPIOS
+* ##### AUDITORÍA DE MOVIMIENTOS
+* ##### INFORMES DINÁMICOS
+* ##### USO DE FILTROS DINÁMICOS
+* ##### CONSULTA DE PRÉSTAMOS
+* ##### INFORME DE CONSUMO DE IMÁGENES DIGITALES
+* ##### CONSULTAS DE TRANSACCIONES POR ARCHIVO
+* ##### DIGITALIZACIÓN PRODUCTIVIDAD
+* ##### INVENTARIO BODEGA
+* ##### PERMISOS CONSULTA POLÍTICA DOCUMENTAL
+* ##### RETENCIÓN DOCUMENTAL
+* ##### CONSULTA DE RESERVAS VIGENTES
+* ##### REGISTRO DE EXPEDIENTES DESDE SINCO CBR
+* ##### ASOCIACIÓN DE PROYECTOS A SUBSERIE
+* ##### REGISTRO DE EXPEDIENTES DE NEGOCIOS DESDE SINCO CBR
+* ##### PERMISOS DE CONSULTA SOBRE LAS TABLAS DE RETENCION DESDE CBR
+
+
+
+ ![logoSGD](../imagenesSGD/logoSGD.jpg)
+
+
+
+
